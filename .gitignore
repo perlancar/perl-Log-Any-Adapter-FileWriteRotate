@@ -1,0 +1,4 @@
+Log-Any-Adapter-FileWriteRotate-*
+.build
+*~
+nytprof*
